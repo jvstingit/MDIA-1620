@@ -9,7 +9,7 @@ Pictture of my favourite sandwich:
 --------------------
 This is an *AWESOME* repository
 --------------------
-**AHA* moments
+**AHA** moments
 Figuring out the map of steps to navigate a file from its folder within Terminal
 Markup Cheat Sheet website guide
 Figuring out that Mat likes tasty sandwiches and doesn't have a bland palette
@@ -35,3 +35,17 @@ NOTEs
 
 1 point for attendance
 1 point for watching video/ 12
+
+**LAB 2**
+
+*3 THINGS I LEARNED*
+1- I learned about the importance of something that seems negligible but isn't--> spaces and capitalization. My git commit hadn't worked at first due to not having ONE SINGLE SPACE between the dash and the letter m which gave an incorrect output.
+2- Boolean is a primitive used only for logical data and can only be answered using true or false. However! The camelCase question itself must make sense and have a word that directs into answering into true or false.
+3- Node is used to run our javascript files and is activated through terminal WIHTOUT opening an actual NODE application.
+
+*2 CONFUSING THINGS*
+1- How come on Microsoft's CMD Prompt, the pop up login for github didn't open? Was there a prompt we could have typed to log into github from the terminal?
+2- I am still a little confused on what exactly a commit is, what other word would you use to describe a commit?
+
+**1 WORD FOR HOW I'M FEELING**
+!MOTIVATED!
