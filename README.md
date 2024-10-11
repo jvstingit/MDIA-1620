@@ -49,3 +49,16 @@ NOTEs
 
 **1 WORD FOR HOW I'M FEELING**
 !MOTIVATED!
+
+**LAB 6**
+
+*3 THINGS I AM CONFUSED ABOUT*
+1. The syntax differences between using ("`and certain brackets)
+2. Using the conditionals together and the syntax that adds things into one sentence
+3. the numbering system making an error when using the correct value
+*3 THINGS I UNDERSTAND*
+1. How to create an array and list them
+2. How to add the two values such as: age to input it into terminal
+3. console logging process
+*1 GIF*
+![Javascript Gif](https://tenor.com/lrihZ6POWuF.gif)
