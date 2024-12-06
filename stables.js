@@ -64,14 +64,13 @@ const newHorse = {
 
 horses.push(newHorse);
 console.log (horses);
-
-const newQuirk = {
-   isHungry: true
-};
-
-
-console.log(newQuirk.isHungry);
- function horseHunger(){
+//this was just wrong, I believe I left newQuirk undefined. 
+//const newQuirk = {
+//  isHungry: true
+//};
+//console.log(newQuirk.isHungry);
+//wanted a function to find out if the horses were hungry. Used dot notation using the name variable. Then dot notation on the log out to check each horse's hunger
+function horseHunger(){
  jimbo.isHungry = true;
  shaq.isHungry = true;
  santa.isHungry = true;
@@ -123,6 +122,9 @@ function rentOwed(horseTenant){
 }
 rentOwed(santa);
 //seperated the index word to make it clear
+//wanted to check if their favourite snack was lollipops.
+    //if the loop went through a full orbit, break
+    //else if the treat was not lollipops console log which horse didnt like lollipops
 function SnackCheck(){
     for (let treat of horses){
         let i = 0;
